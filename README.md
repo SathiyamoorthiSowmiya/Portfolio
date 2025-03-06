@@ -1,4 +1,4 @@
-## 💼 Personal Portfolio Website
+# 💼 Personal Portfolio Website
 
 - Welcome to my personal portfolio website, where I present my journey as a Full Stack Developer.
 - This platform serves as a digital resume, highlighting my technical skills, creative projects, and passion for building modern, user-friendly web applications.
