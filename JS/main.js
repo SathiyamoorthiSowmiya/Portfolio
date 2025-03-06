@@ -1,3 +1,4 @@
+
 /*================================= toggle icon navbar ===================================*/
 let menuIcon = document.querySelector('#menu-icon');
 let navbar = document.querySelector('.navbar');
@@ -59,20 +60,3 @@ const typed = new Typed('.multiple-text', {
     loop: true,
 });
 
-/*===================================Message==============================*/
-function handleSubmit(event) {
-    event.preventDefault();
-    
-    const name = document.getElementById("name").value;
-    const mail = document.getElementById("mail").value;
-    const message = document.getElementById("message").value;
-
-    if (name && mail && message) {
-        alert(`Thank you ${name}, your message has been sent!`);
-        document.querySelector(".contact-form").reset();
-    } else {
-        alert("Please fill all fields!");
-    }
-
-    return false; // To prevent actual form submission (since we're handling it in JS)
-}
