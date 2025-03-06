@@ -6,7 +6,7 @@
 
  # 🌐 Live Portfolio
  
- 👉 Visit My Portfolio
+ 👉 https://somiya-portfolio.netlify.app/
 
 # 🚀 Features
 
