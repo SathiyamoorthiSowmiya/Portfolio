@@ -431,10 +431,9 @@ h3 {
         position: relative; /* or fixed, absolute depending on design */
         left: 0;
         right: 0;
-        padding: 20px 0;
-        background-color: #1a1a2e;
+        padding: 2px 0;
+        background-color: #191f36;
         color: #fff;
-        padding: 20px 0;
         font-family: Arial, sans-serif;
         font-size: 14px;
     }
@@ -455,7 +454,6 @@ h3 {
     
     .footer-right {
         text-align: center; /* Center the content */
-    
         position: relative;
     }
     
@@ -496,7 +494,7 @@ h3 {
     }
     
     .highlight {
-        color: #e91e63;
+        color:#59B2F4;
         font-weight: bold;
     }
     
